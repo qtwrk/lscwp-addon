@@ -1,4 +1,4 @@
-# LiteSpeed Cache Non-Admin Purge
+# LiteSpeed Cache Addon
 
 This plugin will add a purge function to non-admin user , like editor , author or shop manager.
 
